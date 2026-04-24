@@ -9,3 +9,5 @@ python-dotenv
 joblib
 great_expectations
 pytest
+seaborn
+matplotlib
