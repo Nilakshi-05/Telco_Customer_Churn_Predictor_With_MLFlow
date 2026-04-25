@@ -11,3 +11,5 @@ great_expectations
 pytest
 seaborn
 matplotlib
+statsmodels
+lightgbm
