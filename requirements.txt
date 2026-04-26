@@ -13,3 +13,4 @@ seaborn
 matplotlib
 statsmodels
 lightgbm
+optuna
